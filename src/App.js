@@ -11,6 +11,8 @@ class App extends Component {
       [ 
       ]
     }
+    
+    
     this.handleRefresh = this.handleRefresh.bind(this)
     this.getUser = this.getUser.bind(this)
   }

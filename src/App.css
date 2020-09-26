@@ -9,7 +9,6 @@
   display: flex;
   flex-direction: column; 
 }
-
 .inner-body {
   display: flex;
   flex-direction: row;

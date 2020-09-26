@@ -6,5 +6,6 @@ it('performs the task of rendering without crashing', () => {
   
   const div = document.createElement('div');
   ReactDOM.render(<App />, div);
+  
   ReactDOM.unmountComponentAtNode(div);
 });

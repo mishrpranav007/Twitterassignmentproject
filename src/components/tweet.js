@@ -7,7 +7,6 @@ const TweetBox = (props) => {
     </div>
   )
 }
-
 const Image = (props) => {
   return(
     <img src={props.image} alt="Logo" className="picture">
