@@ -10,9 +10,8 @@ class Feed extends Component {
     return (
       <div className="main-body">
         <TweetBody 
-          name="Karthik Kalyan"
-          handle="@karthikkalyan90"
-          tweet="hello world hello worldhello worldhello worldhello"/>
+        
+        />
       </div>
     );
   }
